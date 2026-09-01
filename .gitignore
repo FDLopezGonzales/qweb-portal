@@ -1,0 +1,17 @@
+# Configuracion local
+.env
+
+# Indice de partidas y cualquier extraccion de la base: son datos registrales
+# de personas reales, nunca se versionan.
+data/
+*.sqlite
+*.sqlite3
+
+# Logs y temporales
+*.log
+sqlnet.log
+.DS_Store
+
+# Copias manuales: para eso esta git
+*.bak
+*.bak_*
