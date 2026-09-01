@@ -8,17 +8,22 @@ restablecer la contraseña de los sistemas registrales.
 
 ## Por qué existe
 
-Las cinco aplicaciones eran de escritorio y solo funcionaban en **Windows XP y
-Windows 7**. Cada equipo que se renovaba dejaba de poder usarlas, y mantenerlas
-significaba mantener también las máquinas viejas que las hacían andar.
+Las cinco aplicaciones eran de escritorio y solo corrían en **Windows XP y
+Windows 7**. Como quedaban pocas máquinas de esas, la consulta se convirtió en
+un cuello de botella: había gente que necesitaba buscar un dato y tenía que
+esperar turno en una de las pocas PC que todavía podían abrir el programa.
 
 El portal las reimplementa como una sola aplicación web contra las mismas bases
-Oracle. Se entra desde cualquier navegador, no hay nada que instalar en el
-equipo del usuario, y la renovación del parque dejó de ser un problema.
+Oracle. Se entra desde cualquier navegador, no hay nada que instalar, y la
+renovación del parque de equipos dejó de ser un problema en lugar de una
+amenaza.
 
 De paso resolvió el ticket más repetido de la mesa de ayuda: **cambiar la
-contraseña**. Antes había que llamar a soporte; ahora la persona valida su
-identidad por correo institucional y la cambia sola.
+contraseña**. Antes había que escribir a TI y esperar respuesta, a veces un par
+de días con la persona bloqueada. Ahora valida su identidad por correo
+institucional y **cambia de una vez la clave de todos sus sistemas
+registrales**. Fue la caída más grande de carga de soporte de todo lo que
+construí.
 
 ---
 
@@ -102,8 +107,8 @@ Apunta el servidor web a la raíz del proyecto.
 
 ## Contexto
 
-Lo construí en 2026 durante mis prácticas en la Unidad de Tecnologías de la
-Información de SUNARP (Zona Registral N° XI). Estuvo en producción en las cuatro
+Lo construí en 2025 durante mis prácticas en la Unidad de Tecnologías de la
+Información de SUNARP (Zona Registral N° XI). Quedó en producción en las cuatro
 oficinas registrales de la zona.
 
 Este repositorio es una versión limpia: sin el índice de partidas, sin las
