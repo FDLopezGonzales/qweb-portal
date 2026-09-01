@@ -111,6 +111,12 @@ Lo construí en 2025 durante mis prácticas en la Unidad de Tecnologías de la
 Información de SUNARP (Zona Registral N° XI). Quedó en producción en las cuatro
 oficinas registrales de la zona.
 
+La Jefatura de la Unidad de Tecnologías de la Información de la Zona Registral
+N° XI dejó constancia escrita, el 6 de agosto de 2026, de la implementación de
+este sistema y de que se encuentra **actualmente en producción**. El documento
+no se publica aquí porque lleva firmas y datos personales; lo comparto a quien
+lo pida.
+
 Este repositorio es una versión limpia: sin el índice de partidas, sin las
 credenciales de conexión y sin la red interna. Publicado con autorización del
 área.
